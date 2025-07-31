@@ -1,0 +1,2 @@
+![Github stats](https://github-readme-stats.vercel.app/api?username=frzambra)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frzambra&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less&layout=compact&langs_count=10)
