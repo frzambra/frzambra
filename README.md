@@ -6,7 +6,7 @@ Beyond academia, I’m passionate about open science and reproducible research. 
 
 Whether through scientific publications :page_facing_up:, collaborative projects, or open-source development, I aim to bridge the gap between data, science, and policy to support more informed environmental decisions.
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=frzambra&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=frzambra&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&disable_animations=true)
 
 ![Top languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=frzambra&layout=compact&langs_count=10&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less)
 
