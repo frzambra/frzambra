@@ -8,9 +8,6 @@ Whether through scientific publications :page_facing_up:, collaborative projects
 
 ![Top Languages](https://github-readme-stats-seven-theta-59.vercel.app/api/top-langs/?username=frzambra&layout=compact&langs_count=6&hide=html,css,scss,less,javascript,postscript,tex,jupyter%20notebook)
 
-
 ![GitHub stats](https://github-readme-stats-seven-theta-59.vercel.app/api?username=frzambra&show_icons=true&count_private=true)
-
-![Top languages](https://github-readme-stats-seven-theta-59.vercel.app/api/top-langs/?username=frzambra&layout=compact&langs_count=10&hide=html,jupyter%20notebook,JavaScript,PostScript,SCSS,Less)
 
 
