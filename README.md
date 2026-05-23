@@ -5,7 +5,3 @@
 Beyond academia, I’m passionate about open science and reproducible research. :octocat: Here, I share tools and code—mostly :computer: in R—that support the analysis :chart_with_downwards_trend:  and visualization of geospatial and climate data. Some of my contributions include interactive apps for visualizing drought data in Chile, R packages for working with spatiotemporal arrays, and scripts for satellite image processing and animation. I enjoy building tools that make complex environmental data more accessible and actionable.
 
 Whether through scientific publications :page_facing_up:, collaborative projects, or open-source development, I aim to bridge the gap between data, science, and policy to support more informed environmental decisions.
-
-![Top Languages](https://github-readme-stats-seven-theta-59.vercel.app/api/top-langs/?username=frzambra&layout=compact&langs_count=6&hide=html,css,scss,less,javascript,postscript,tex,jupyter%20notebook) ![GitHub stats](https://github-readme-stats-seven-theta-59.vercel.app/api?username=frzambra&show_icons=true&count_private=true)
-
-
